@@ -1,0 +1,4 @@
+cd /change direction
+ls -a /pokazuje wszytsko w aktualnym folderze   
+pwd /pokazujke sciezke
+rm -rf /usuwa plik i podfoldery
